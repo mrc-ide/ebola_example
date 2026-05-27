@@ -1,6 +1,0 @@
-"from","to","contact_of_type1","contact_of_type2"
-"EG0","EG1","FALSE","FALSE"
-"EG1","EG2","TRUE","FALSE"
-"EG1","EG4","FALSE","FALSE"
-"EG2","EG5","FALSE","TRUE"
-"EG3","EG6","FALSE","FALSE"
