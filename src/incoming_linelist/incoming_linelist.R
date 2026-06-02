@@ -20,6 +20,7 @@ ll %>%
   aes(x = date_of_onset, y = count, fill = location)+
   geom_col() +
   theme_minimal() # you may spot it looks like there is an error in some of the dates that you may want to fix here 
+dev.off()
 
 # save the file
 saveRDS(ll, "cleaned_linelist.rds")
